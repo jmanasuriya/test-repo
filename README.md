@@ -1,2 +1,2 @@
 # test-repo
-Learn git on the go!
+Learn git on the go! and with amazing exprerience...
